@@ -17,7 +17,7 @@ class Certbot < Formula
   depends_on "augeas"
   depends_on "dialog"
   depends_on "openssl@1.1"
-  depends_on "python@3.8"
+  depends_on "python@3.7.7"
 
   uses_from_macos "libffi"
 
